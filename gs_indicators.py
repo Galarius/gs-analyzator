@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 
-import numpy as np
-
 __author__ = 'Ilya Shoshin'
 __copyright__ = 'Copyright 2015, Ilya Shoshin'
 
+import numpy as np
 
 def MD(original, modified):
     """

@@ -1,3 +1,6 @@
+__author__ = 'Ilya Shoshin'
+__copyright__ = 'Copyright 2015, Ilya Shoshin'
+
 import sys, getopt
 import wave
 import numpy as np

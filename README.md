@@ -17,3 +17,7 @@
 | 9|Качество звучания|![10.8](readme.images/10.8.indicator.formula.png) |
 | 10|Нормированная взаимная корреляция|![10.9](readme.images/10.9.indicator.formula.png) |
 | 11|Качество корреляции|![10.10](readme.images/10.10.indicator.formula.png) |
+
+## Лицензия
+
+Исходный код «gs-analyzator выложен на условиях GNU GPLv3

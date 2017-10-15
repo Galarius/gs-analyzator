@@ -1,4 +1,5 @@
-__author__ = 'galarius'
+__author__ = 'Ilya Shoshin'
+__copyright__ = 'Copyright 2015, Ilya Shoshin'
 
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
