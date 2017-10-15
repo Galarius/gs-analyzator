@@ -20,4 +20,4 @@
 
 ## Лицензия
 
-Исходный код «gs-analyzator выложен на условиях GNU GPLv3
+Исходный код «gs-analyzator выложен на условиях [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/#)
